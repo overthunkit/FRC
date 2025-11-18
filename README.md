@@ -1,6 +1,8 @@
 
-<a href="https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html">[ FRC Library ]<a>
+[FRC Library](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
 
-<a href="https://cheatography.com/programming/">[ C++,Java,etc Cheat Sheet LINK ]<a>
+[C++,Java,etc Cheat Sheet LINK](https://cheatography.com/programming/)
 
-<a href="https://youtu.be/zOjov-2OZ0E">[ programming 101 video on Youtube LINK ]<a>
+[programming 101 video on Youtube LINK](https://youtu.be/zOjov-2OZ0E)
+
+
